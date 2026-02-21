@@ -36,7 +36,7 @@ Basta fare doppio clic sull’eseguibile per avviarla.
 
 ## 🖥 Come si usa
 
-1. Scarica `qr_generator_free.exe`
+1. Scarica `QRGenerator.exe`
 2. Fai doppio clic per avviare
 3. Inserisci testo o URL
 4. (Opzionale) Personalizza colore e logo
