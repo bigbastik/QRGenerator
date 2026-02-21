@@ -36,12 +36,14 @@ Basta fare doppio clic sull’eseguibile per avviarla.
 
 ## 🖥 Come si usa
 
-1. Scarica `QRGenerator.exe`
-2. Fai doppio clic per avviare
-3. Inserisci testo o URL
-4. (Opzionale) Personalizza colore e logo
-5. Premi **Generate QR**
-6. Salva l’immagine PNG
+1. Scarica Il .ZIP
+2. Estrai
+3. Entra nella cartella release
+4. Doppio clic su QRGenerator.exe
+5. Inserisci testo o URL
+6. (Opzionale) Personalizza colore e logo
+7. Premi **Generate QR**
+8. Salva l’immagine PNG
 
 ---
 
