@@ -1,7 +1,5 @@
-# Forza Python come linguaggio
 *.py linguist-language=Python
 
-# Ignora cartelle di dipendenze o binari, se presenti
 __pycache__/** linguist-vendored
 venv/** linguist-vendored
 *.exe linguist-vendored
